@@ -1,15 +1,17 @@
-# Task 2 - Splash Screen & App Intro
+# Task 2 - Splash Screen
 
-## Objective
-Create a splash screen and onboarding screens.
+## 🎯 Objective
+Create an attractive splash screen for the Android application.
 
-## Technologies
+## 🛠 Technologies Used
 - Kotlin
 - XML
-- ViewPager2
-- SharedPreferences
+- Android Studio
 
-## Features
-- Splash Screen
-- Intro Slides
-- Skip Intro on next launch
+## 📌 Features
+- Splash Screen UI
+- App Logo Display
+- Timed Navigation to Main Screen
+
+## ✅ Status
+Completed Successfully
