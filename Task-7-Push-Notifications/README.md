@@ -1,12 +1,17 @@
 # Task 7 - Push Notifications
 
-## Objective
+## 🎯 Objective
 Implement Android push notifications.
 
-## Technologies
-- NotificationManager
+## 🛠 Technologies Used
 - Kotlin
-
-## Features
+- NotificationManager
 - Notification Channel
-- Send Notification
+
+## 📌 Features
+- Notification Channel
+- Push Notification
+- Notification Permission
+
+## ✅ Status
+Completed Successfully
