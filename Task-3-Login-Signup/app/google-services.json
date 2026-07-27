@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230017720335",
+    "project_id": "task3loginsignup",
+    "storage_bucket": "task3loginsignup.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230017720335:android:664b935d4903e4148dc37a",
+        "android_client_info": {
+          "package_name": "com.suresh.task3loginsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA00JjyXPTm0Ax4bwoVXIoFuHNM8d7a5dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

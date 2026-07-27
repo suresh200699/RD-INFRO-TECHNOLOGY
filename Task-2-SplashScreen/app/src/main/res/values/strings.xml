@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task2SplashScreen</string>
+
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="skip">Skip</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="explore">Explore</string>
+</resources>
