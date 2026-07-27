@@ -1,14 +1,17 @@
-# Task 6 - Profile Screen with Image Upload
+# Task 6 - Profile Image Upload
 
-## Objective
+## 🎯 Objective
 Allow users to select and display a profile image.
 
-## Technologies
-- Image Picker
+## 🛠 Technologies Used
 - Kotlin
 - XML
+- Android Image Picker
 
-## Features
+## 📌 Features
 - Select Image
 - Display Selected Image
-- Profile UI
+- Profile Screen
+
+## ✅ Status
+Completed Successfully
