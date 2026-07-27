@@ -1,15 +1,18 @@
 # Task 3 - Login & Signup (Firebase)
 
-## Objective
-Implement user authentication using Firebase.
+## 🎯 Objective
+Implement user authentication using Firebase Authentication.
 
-## Technologies
-- Firebase Authentication
+## 🛠 Technologies Used
 - Kotlin
 - XML
+- Firebase Authentication
 
-## Features
+## 📌 Features
 - User Registration
 - User Login
 - Email & Password Authentication
-- Login State Persistence
+- Input Validation
+
+## ✅ Status
+Completed Successfully
