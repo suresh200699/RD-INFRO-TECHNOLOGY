@@ -1,15 +1,19 @@
 # Task 5 - API Integration
 
-## Objective
-Fetch and display data from a public REST API.
+## 🎯 Objective
+Fetch and display data from a REST API using Retrofit.
 
-## Technologies
+## 🛠 Technologies Used
+- Kotlin
 - Retrofit
-- Gson
+- REST API
 - RecyclerView
-- JSONPlaceholder API
 
-## Features
-- API Call
-- RecyclerView
+## 📌 Features
+- API Integration
 - JSON Parsing
+- Dynamic Data Display
+- Error Handling
+
+## ✅ Status
+Completed Successfully
