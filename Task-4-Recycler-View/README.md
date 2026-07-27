@@ -1,15 +1,18 @@
 # Task 4 - Home Screen with RecyclerView
 
-## Objective
-Display dynamic data using RecyclerView.
+## 🎯 Objective
+Display a list of items using RecyclerView.
 
-## Technologies
+## 🛠 Technologies Used
+- Kotlin
+- XML
 - RecyclerView
-- CardView
-- Adapter
-- ViewHolder
 
-## Features
-- Scrollable List
-- Card Layout
-- Dummy Data Display
+## 📌 Features
+- RecyclerView
+- Custom Adapter
+- ViewHolder Pattern
+- Dynamic Item Display
+
+## ✅ Status
+Completed Successfully
